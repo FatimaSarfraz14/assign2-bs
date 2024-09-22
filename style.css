@@ -1,0 +1,354 @@
+#div1 {
+    margin-left: 10%;
+    color: rgb(123, 90, 153);
+}
+
+#div2 {
+    background-color: rgb(97, 64, 128);
+    width: 100.1%;
+    height: 918px;
+    margin-left: -0.1%;
+}
+
+#p1 {
+    font-size: 160px;
+    text-align: center;
+}
+
+#p2 {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.div3 {
+    color: chartreuse;
+    background-color: chartreuse;
+    width: 0.7%;
+    height: 12px;
+    margin-top: -4.5%;
+    margin-left: 64%;
+}
+
+#navb:hover {
+    background-color: rgb(247, 247, 247);
+}
+
+#nav {
+    height: 50px;
+    font-size: small;
+}
+
+a {
+    width: 30%;
+    margin-left: 1%;
+    padding-left: 0.5%;
+    text-align: center;
+}
+
+#h {
+    margin-left: 53.2%;
+    margin-top: -1.6%;
+}
+
+#h:hover {
+    background-color: white;
+    text-decoration: underline rgb(1, 1, 202);
+}
+
+a:hover {
+    background-color: rgba(185, 185, 185, 0.178);
+}
+
+#img1 {
+    float: right;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+
+#img2 {
+    float: right;
+    margin-right: 2%;
+    margin-top: 7%;
+
+}
+
+#sp2 {
+    height: 50px;
+    padding-top: 0.5%;
+    padding-right: 0.4%;
+    width: 4%;
+    margin-right: 1.5%;
+
+}
+
+#navb {
+    width: 10%;
+}
+
+#sp2:hover {
+    background-color: rgba(185, 185, 185, 0.178);
+}
+
+#sp3 {
+    height: 50px;
+    width: 4%;
+    margin-right: 25%;
+    padding-top: 0.5%;
+    padding-right: 0.3%;
+}
+
+#sp3:hover {
+    background-color: rgba(185, 185, 185, 0.178);
+}
+
+#p3 {
+    padding-top: 5%;
+    text-align: center;
+}
+
+#p4 {
+    text-align: center;
+}
+
+#a {
+    margin-left: -5%;
+    margin-top: 1.7%;
+    text-align: center;
+}
+
+#b {
+    margin-top: 1.6%;
+}
+
+#d {
+    margin-top: 1.6%;
+}
+
+#img3 {
+    margin-top: 4%;
+}
+
+#img4 {
+    margin-left: 18%;
+}
+
+#img5 {
+    margin-left: 19%;
+    margin-top: 2%;
+}
+
+#p5 {
+    margin-left: 25.8%;
+}
+
+#p6 {
+    margin-left: -43%;
+    font-size: 120%;
+    text-align: center;
+}
+
+#p7 {
+    margin-left: 48%;
+    margin-top: -8.9%;
+}
+
+#p8 {
+    margin-left: 0.2%;
+    font-size: 120%;
+    text-align: center;
+}
+
+#p9 {
+    margin-left: 68%;
+    margin-top: -8.9%;
+}
+
+#p10 {
+    margin-left: 44%;
+    font-size: 120%;
+    text-align: center;
+}
+
+#p11 {
+    margin-left: 26%;
+}
+
+#p12 {
+    margin-left: -42% !important;
+    font-size: 120%;
+    text-align: center;
+}
+
+#p13 {
+    margin-left: 46%;
+    margin-top: -8.9%;
+}
+
+#p14 {
+    margin-left: 1%;
+    font-size: 120%;
+    text-align: center;
+}
+
+#p15 {
+    margin-left: 70%;
+    margin-top: -8.9%;
+}
+
+#p16 {
+    margin-left: 45%;
+    font-size: 120%;
+    text-align: center;
+}
+
+#p17 {
+    margin-left: 28%;
+}
+
+#p18 {
+    margin-left: -39%;
+    font-size: 120%;
+    text-align: center;
+}
+
+#p19 {
+    margin-left: 49%;
+    margin-top: -9%;
+}
+
+#p20 {
+    margin-left: 3%;
+    font-size: 120%;
+    text-align: center;
+}
+
+.div5 {
+    height: 800px;
+}
+
+.ul1 {
+    margin-left: 32%;
+}
+
+.ul2 {
+    margin-left: 43%;
+    margin-top: -17.3%;
+}
+
+.ul3 {
+    margin-left: 53%;
+    margin-top: -15.9%;
+}
+
+.ul4 {
+    margin-left: 63%;
+    margin-top: -14.5%;
+}
+
+.img6 {
+    margin-top: 4%;
+    margin-left: 23%;
+    opacity: 85%;
+}
+
+.img6:hover {
+    opacity: 110%;
+}
+
+.img7 {
+    margin-top: 4%;
+    margin-left: 12%;
+    opacity: 85%;
+}
+
+.img7:hover {
+    opacity: 110%;
+}
+
+.img8 {
+    margin-top: 3.8%;
+    margin-left: 12%;
+    opacity: 85%;
+}
+
+.img8:hover {
+    opacity: 110%;
+}
+
+#ppp1 {
+    margin-left: -44%;
+}
+
+.pp1 {
+    margin-left: -44%;
+}
+
+#ppp2 {
+    margin-top: -10.6%;
+}
+
+#ppp3 {
+    margin-left: 45%;
+    margin-top: -11.8%;
+}
+
+.pp3 {
+    margin-left: 45%;
+}
+
+.hi {
+    text-decoration: none;
+}
+
+.hi:hover {
+    background-color: white;
+    text-decoration: underline blue;
+}
+
+#blog {
+    padding-top: 8%;
+}
+
+.awe {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.awe:hover {
+    background-color: rgba(170, 170, 170, 0);
+    text-decoration: underline blue;
+}
+
+#btn {
+    width: 10%;
+    height: 40px;
+    margin-left: -0.5%;
+    margin-top: -0.5%;
+    background-color: #563d7c;
+}
+
+#btn:hover {
+    background-color: #6f5499;
+}
+
+#input {
+    margin-left: 31%;
+    width: 30%;
+    height: 40px;
+}
+
+.div9 {
+    background-color: #6f5499;
+    height:100px;
+}
+
+#hii {
+    text-decoration: none;
+    color: rgba(231, 229, 229, 0.904);
+
+}
+
+#hii:hover {
+    background-color: #6f5499;
+    color: #ffffff;
+}
